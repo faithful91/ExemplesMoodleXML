@@ -10,9 +10,9 @@
 	<defaultgrade>1</defaultgrade>
 	<subquestion>
 		<text>Premier item de la première paire</text>
-		<answer>
+		<answer>ssss
 			<text>Second item de le première paire</text>
-		</answer>
+		</answer>sss
 	</subquestion>
 	<subquestion>
 		<text>Premier item de la seconde paire</text>
